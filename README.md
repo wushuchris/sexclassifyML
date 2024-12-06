@@ -47,6 +47,25 @@ This project leverages machine learning to classify biological sex based on faci
 
 ---
 
+## Required Libraries
+To run this project, the following Python libraries must be installed:
+- **Computer Vision:**
+  - OpenCV-Python
+  - Dlib
+- **Data Analysis and Machine Learning:**
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - TensorFlow
+  - Statsmodels
+- **Data Visualization:**
+  - Matplotlib
+  - Seaborn
+- **Progress Bars:**
+  - tqdm
+ 
+---
+
 ## Results
 - Achieved high classification accuracy (>90%) on validation datasets.
 - Identified the top predictive features, reducing model complexity without sacrificing performance.
